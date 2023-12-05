@@ -12,4 +12,6 @@ func main() {
 	mmsql.NewClient()
 	
 	mmsql.VeryNewClient()
+	
+	mmsql.VeryVeryNewClient()
 }
