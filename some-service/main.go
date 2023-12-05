@@ -10,4 +10,6 @@ func main() {
 	fmt.Println("------------------ Hello, World!")
 	
 	mmsql.NewClient()
+	
+	mmsql.VeryNewClient()
 }
