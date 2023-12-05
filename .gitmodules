@@ -1,0 +1,6 @@
+[submodule "foundation"]
+	path = foundation
+	url = https://github.com/OrenRosen/shared
+[submodule "shared"]
+	path = shared
+	url = https://github.com/OrenRosen/shared

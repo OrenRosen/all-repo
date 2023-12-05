@@ -1,7 +1,13 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+	
+	"github.com/OrenRosen/shared/mmsql"
+)
 
 func main() {
 	fmt.Println("------------------ Hello, World!")
+	
+	mmsql.NewClient()
 }
