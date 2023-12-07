@@ -14,4 +14,6 @@ func main() {
 	mmsql.VeryNewClient()
 	
 	mmsql.VeryVeryNewClient()
+	
+	mmsql.NewFunction888()
 }
